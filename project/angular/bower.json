@@ -1,0 +1,30 @@
+{
+  "name": "angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "sunheng"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "jquery": "^3.2.0",
+    "angular": "^1.6.3"
+  },
+  "devDependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "jquery": "^3.2.0",
+    "angular": "^1.6.3",
+    "angular-ui-router": "angular-ui/ui-router#^0.4.2",
+    "angular-route": "^1.6.3"
+  }
+}

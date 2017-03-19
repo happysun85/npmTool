@@ -1,0 +1,25 @@
+{
+  "name": "dean_create",
+  "version": "1.0.3",
+  "description": "创建angular框架",
+  "main": "index.js",
+  "bin": {
+    "dean_create": "index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "http-server": "^0.9.0",
+    "jsonfile": "^2.4.0",
+    "shelljs": "^0.7.6",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunheng",
+  "license": "ISC"
+}
